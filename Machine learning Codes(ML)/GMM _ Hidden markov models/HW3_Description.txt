@@ -1,0 +1,2 @@
+Q10: GMM of (1,2,4,8,16) components on a generated dataset
+Q11: Hidden markov models

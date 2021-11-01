@@ -1,0 +1,3 @@
+Q11:PCA
+Q12: LDA
+Q13:ICA

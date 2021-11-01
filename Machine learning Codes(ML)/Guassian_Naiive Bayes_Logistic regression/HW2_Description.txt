@@ -1,0 +1,3 @@
+Q6: on Iris_dataset : Visualization+implementation of 'Nearest Centeroid' both form scratch & Sklearn library
+Q7 : on Mnist : Visualization + Gaussian NB + Naive bayes from scratch 
+Q8 : Logistic Regression
