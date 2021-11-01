@@ -1,0 +1,4 @@
+Q2:Perceptron
+Q3:Adaline
+Q4: Madaline
+The report Also provided but its in persian,but maybe the plots are helpful
