@@ -1,0 +1,4 @@
+Q1:MLP(Regression)
+Q2:MLP(Classification)
+Q3: Dimension Reduction
+The report Also provided but its in persian,but maybe the plots are helpful

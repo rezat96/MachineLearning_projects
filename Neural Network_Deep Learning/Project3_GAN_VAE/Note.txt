@@ -1,0 +1,4 @@
+**The Codes in this project are mainly gathered from the Internet but have been studied & changed for my purpose
+Q1: Variational autoencoder and Conditional VAE on Mnist Data set
+Q2: Cycle Gan on monet2photo Dataset
+Also a report in persian have been atached 
