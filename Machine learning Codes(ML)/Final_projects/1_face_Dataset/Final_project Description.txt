@@ -1,4 +1,0 @@
-in this project after gathering sufficient Data of Diffrent people,we were given 5feature_extraction using diffrent Methods.
-vector samples for each person_status(Happy_Sad_neutral ),then the project wanted us to predict age/Status/Gender 
-of each image using the features (f1_f5)
-the final part was clustering on the dataset using 2,3,6 number of clusters
